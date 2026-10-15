@@ -23,9 +23,14 @@
 |---|---|---|
 | 民法過去問帳 | `../minpo-kakomon` | https://law-kakomon.github.io/minpo-kakomon/ |
 | 民事訴訟法過去問帳 | `../minso-kakomon` | https://law-kakomon.github.io/minso-kakomon/ |
+| 憲法過去問帳 | `../kenpo-kakomon` | https://law-kakomon.github.io/kenpo-kakomon/ |
+| 行政法過去問帳 | `../gyosei-kakomon` | https://law-kakomon.github.io/gyosei-kakomon/ |
+| 刑法過去問帳 | `../keiho-kakomon` | https://law-kakomon.github.io/keiho-kakomon/ |
+| 刑事訴訟法過去問帳 | `../keiso-kakomon` | https://law-kakomon.github.io/keiso-kakomon/ |
 
-道具一式は共通（複製して科目を差し替える作り）。**片方で直した不具合は他にも当てはまることが多い。**
 科目の入口は https://law-kakomon.github.io/ 。
+道具一式（`tools/`）と `index.html` は共通で、科目設定だけ差し替える作り。
+**片方で直した不具合は他にも当てはまる**ので、直したら他リポも確かめること。
 
 ## 構成
 
